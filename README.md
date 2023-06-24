@@ -1,2 +1,4 @@
 # QAKT
-PyTorch implementation for QAKT
+PyTorch implementation for QAKT.
+
+Source code and datasets will be released soon.
