@@ -5,7 +5,7 @@ This is the code for the paper:
 [Attentive Q-Matrix Learning for Knowledge Tracing](https://arxiv.org/abs/2304.08168)  
 Zhongfeng Jia, Wei Su, Jiamin Liu, Wenli Yue
 
-
+This implementation is based on [AKT](https://arxiv.org/abs/2007.12324).
 
 If you find this code useful in your research then please cite  
 ```bash
